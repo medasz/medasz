@@ -1,20 +1,29 @@
-## Hi there 👋
+## Hi there! I'm Medasz👋
 
-<!--
-**medasz/medasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm concentrating on port fingerprinting.
+- 🌱 I’m currently learning front-end knowledge Vue2 and Vue3.
+- 📫 My Blog: https://medasz.github.io
+- 😄 I enjoy developing security tools including asset detection, vulnerability scanning, etc.
 
-Here are some ideas to get you started:
+#### :computer: Programming languages and tools: 
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medasz&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medasz" />
-</div>
+  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+</p>
+
+<a href="https://github.com/medasz?tab=repositories">
+<img height="180em" align="right" alt="Medasz's github stats" src="https://github-readme-stats.vercel.app/api?username=medasz&show_icons=true&theme=algolia&count_private=true" />
+<img height="180em" align="left"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medasz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medasz&theme=monokai" width="100%" />
