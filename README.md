@@ -21,7 +21,7 @@
 </p>
 
 <a href="https://github.com/medasz?tab=repositories">
-<img height="180em" align="right" alt="Medasz's github stats" src="https://github-readme-stats.vercel.app/api?username=medasz&show_icons=true&theme=algolia&count_private=true" />
+<img height="180em" align="right" alt="Medasz's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=medasz&show_icons=true&theme=algolia&count_private=true" />
 <img height="180em" align="left"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medasz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medasz&theme=monokai" width="100%" />
